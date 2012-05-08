@@ -1,0 +1,18 @@
+# inspired from http://blog.dirkz.com/2011/03/my-gitignore.html
+
+# os x finder
+.DS_Store
+
+# xcode 4
+xcuserdata
+
+# build directory
+build
+
+# some artifacts
+*.o
+*.lev
+
+# some results of applying diff
+*.rej
+*.orig
